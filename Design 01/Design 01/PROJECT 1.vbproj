@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{96B225CF-3E88-4A83-A00F-0FB17168593E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Design_01.My.MyApplication</StartupObject>
+    <RootNamespace>Design_01</RootNamespace>
+    <AssemblyName>Design 01</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Design 01.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Design 01.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data File\DataSetGrade.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetGrade.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Data File\DataSetGrade.vb">
+      <DependentUpon>DataSetGrade.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form\DataSaved.Designer.vb">
+      <DependentUpon>DataSaved.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\DataSaved.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Librarian Entry\AddBooks.Designer.vb">
+      <DependentUpon>AddBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Librarian Entry\AddBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Librarian Entry\AddIssued.Designer.vb">
+      <DependentUpon>AddIssued.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Librarian Entry\AddIssued.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddCourses.Designer.vb">
+      <DependentUpon>AddCourses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddCourses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddStudents.Designer.vb">
+      <DependentUpon>AddStudents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddStudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddSubjectEnrolled.Designer.vb">
+      <DependentUpon>AddSubjectEnrolled.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddSubjectEnrolled.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddSubjects.Designer.vb">
+      <DependentUpon>AddSubjects.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddSubjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddTeacherAdvisories.Designer.vb">
+      <DependentUpon>AddTeacherAdvisories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddTeacherAdvisories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddTeachers.Designer.vb">
+      <DependentUpon>AddTeachers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\AddTeachers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Admin Entry\AddUsersAccount.Designer.vb">
+      <DependentUpon>AddUsersAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Admin Entry\AddUsersAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Admin Entry\BackupDatabase.Designer.vb">
+      <DependentUpon>BackupDatabase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Admin Entry\BackupDatabase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\UpdateGrades.Designer.vb">
+      <DependentUpon>UpdateGrades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Registrar Entry\UpdateGrades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Student Entry\AddStudentIssued.Designer.vb">
+      <DependentUpon>AddStudentIssued.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Student Entry\AddStudentIssued.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Logout.Designer.vb">
+      <DependentUpon>Logout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Logout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Print Form\PrintGrade.Designer.vb">
+      <DependentUpon>PrintGrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Print Form\PrintGrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Admin Entry\AdminProfile.Designer.vb">
+      <DependentUpon>AdminProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Admin Entry\AdminProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Print Form\PrintStudent.Designer.vb">
+      <DependentUpon>PrintStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Print Form\PrintStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Print Form\PrintSubject.Designer.vb">
+      <DependentUpon>PrintSubject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Print Form\PrintSubject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Librarian\Books.Designer.vb">
+      <DependentUpon>Books.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Librarian\Books.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Librarian\IssuedBooks.Designer.vb">
+      <DependentUpon>IssuedBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Librarian\IssuedBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Librarian\ReportBooks.Designer.vb">
+      <DependentUpon>ReportBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Librarian\ReportBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Courses.Designer.vb">
+      <DependentUpon>Courses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Courses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Admin\Database.Designer.vb">
+      <DependentUpon>Database.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Admin\Database.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Admin\UserActivity.Designer.vb">
+      <DependentUpon>UserActivity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Admin\UserActivity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Admin\UsersAccounts.Designer.vb">
+      <DependentUpon>UsersAccounts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Admin\UsersAccounts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\TeachersAdvisory.Designer.vb">
+      <DependentUpon>TeachersAdvisory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\TeachersAdvisory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\SubjectsEnrolled.Designer.vb">
+      <DependentUpon>SubjectsEnrolled.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\SubjectsEnrolled.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Grades.Designer.vb">
+      <DependentUpon>Grades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Grades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Teachers.Designer.vb">
+      <DependentUpon>Teachers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Teachers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Subjects.Designer.vb">
+      <DependentUpon>Subjects.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Subjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Students.Designer.vb">
+      <DependentUpon>Students.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Registrar\Students.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Admin Entry\RestoreDatabase.Designer.vb">
+      <DependentUpon>RestoreDatabase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Admin Entry\RestoreDatabase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Students\StudentBooks.Designer.vb">
+      <DependentUpon>StudentBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Students\StudentBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Students\StudentGrades.Designer.vb">
+      <DependentUpon>StudentGrades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Students\StudentGrades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Students\StudentIssued.Designer.vb">
+      <DependentUpon>StudentIssued.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Students\StudentIssued.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\Teachers\TeacherGrade.Designer.vb">
+      <DependentUpon>TeacherGrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\Teachers\TeacherGrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Dialog\Teacher Entry\TeacherProfile.Designer.vb">
+      <DependentUpon>TeacherProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Dialog\Teacher Entry\TeacherProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\UploadClassification.Designer.vb">
+      <DependentUpon>UploadClassification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\UploadClassification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Users Form\Admin.Designer.vb">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Users Form\Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Users Form\Librarian.Designer.vb">
+      <DependentUpon>Librarian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Users Form\Librarian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Users Form\Registrar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Users Form\Registrar.Designer.vb">
+      <DependentUpon>Registrar.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Users Form\Student.Designer.vb">
+      <DependentUpon>Student.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Users Form\Student.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Users Form\Teacher.Designer.vb">
+      <DependentUpon>Teacher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Users Form\Teacher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SystemModule.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form\DataSaved.resx">
+      <DependentUpon>DataSaved.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Librarian Entry\AddBooks.resx">
+      <DependentUpon>AddBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Librarian Entry\AddIssued.resx">
+      <DependentUpon>AddIssued.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Registrar Entry\AddCourses.resx">
+      <DependentUpon>AddCourses.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Registrar Entry\AddStudents.resx">
+      <DependentUpon>AddStudents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Registrar Entry\AddSubjectEnrolled.resx">
+      <DependentUpon>AddSubjectEnrolled.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Registrar Entry\AddSubjects.resx">
+      <DependentUpon>AddSubjects.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Registrar Entry\AddTeacherAdvisories.resx">
+      <DependentUpon>AddTeacherAdvisories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Registrar Entry\AddTeachers.resx">
+      <DependentUpon>AddTeachers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Admin Entry\AddUsersAccount.resx">
+      <DependentUpon>AddUsersAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Admin Entry\BackupDatabase.resx">
+      <DependentUpon>BackupDatabase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Registrar Entry\UpdateGrades.resx">
+      <DependentUpon>UpdateGrades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Student Entry\AddStudentIssued.resx">
+      <DependentUpon>AddStudentIssued.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Logout.resx">
+      <DependentUpon>Logout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Print Form\PrintGrade.resx">
+      <DependentUpon>PrintGrade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Print Form\PrintStudent.resx">
+      <DependentUpon>PrintStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Print Form\PrintSubject.resx">
+      <DependentUpon>PrintSubject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Report\GradesReport.rdlc" />
+    <EmbeddedResource Include="Form\Dialog\Admin Entry\AdminProfile.resx">
+      <DependentUpon>AdminProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Report\StudentsReport.rdlc" />
+    <EmbeddedResource Include="Form\Report\SubjectsReport.rdlc" />
+    <EmbeddedResource Include="Form\Sub Form\Librarian\Books.resx">
+      <DependentUpon>Books.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Librarian\IssuedBooks.resx">
+      <DependentUpon>IssuedBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Librarian\ReportBooks.resx">
+      <DependentUpon>ReportBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Registrar\Courses.resx">
+      <DependentUpon>Courses.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Registrar\Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Admin\Database.resx">
+      <DependentUpon>Database.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Admin\UserActivity.resx">
+      <DependentUpon>UserActivity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Admin\UsersAccounts.resx">
+      <DependentUpon>UsersAccounts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Registrar\TeachersAdvisory.resx">
+      <DependentUpon>TeachersAdvisory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Registrar\SubjectsEnrolled.resx">
+      <DependentUpon>SubjectsEnrolled.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Registrar\Grades.resx">
+      <DependentUpon>Grades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Registrar\Teachers.resx">
+      <DependentUpon>Teachers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Registrar\Subjects.resx">
+      <DependentUpon>Subjects.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Registrar\Students.resx">
+      <DependentUpon>Students.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Admin Entry\RestoreDatabase.resx">
+      <DependentUpon>RestoreDatabase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Students\StudentBooks.resx">
+      <DependentUpon>StudentBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Students\StudentGrades.resx">
+      <DependentUpon>StudentGrades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Students\StudentIssued.resx">
+      <DependentUpon>StudentIssued.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\Teachers\TeacherGrade.resx">
+      <DependentUpon>TeacherGrade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Dialog\Teacher Entry\TeacherProfile.resx">
+      <DependentUpon>TeacherProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\UploadClassification.resx">
+      <DependentUpon>UploadClassification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Users Form\Admin.resx">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Users Form\Librarian.resx">
+      <DependentUpon>Librarian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Users Form\Registrar.resx">
+      <DependentUpon>Registrar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Users Form\Student.resx">
+      <DependentUpon>Student.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Users Form\Teacher.resx">
+      <DependentUpon>Teacher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data File\DataSetGrade.xsc">
+      <DependentUpon>DataSetGrade.xsd</DependentUpon>
+    </None>
+    <None Include="Data File\DataSetGrade.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetGrade.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Data File\DataSetGrade.xss">
+      <DependentUpon>DataSetGrade.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-photo-281260.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark-blue-grunge-background-caracterdesign.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circled_user_male_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diploma_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elective_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\training_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student_male_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exam_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_rounded_up_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_rounded_up_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student_male_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\school_director_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elective_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visible_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diploma_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear_symbol_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\import_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upload_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_group_man_man_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_configuration_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_backup_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_restore_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_window_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_25px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_restore_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\activity_history_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrow_book_30px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

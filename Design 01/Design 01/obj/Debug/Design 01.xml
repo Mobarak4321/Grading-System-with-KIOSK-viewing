@@ -1,0 +1,224 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Design01
+</name>
+</assembly>
+<members>
+<member name="T:Design_01.DataSetGrade.dtGradesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Design_01.DataSetGrade.dtStudentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Design_01.DataSetGrade.dtSubjectsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Design_01.DataSetGrade.dtGradesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Design_01.DataSetGrade.dtStudentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Design_01.DataSetGrade.dtSubjectsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Design_01.DataSetGrade.dtGradesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Design_01.DataSetGrade.dtStudentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Design_01.DataSetGrade.dtSubjectsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Design_01.DataSetGrade">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.about_50px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.activity_history_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.add_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.borrow_book_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.cancel_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.cancel_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.circled_user_male_120px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.clear_symbol_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.close_window_25px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.close_window_25px1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.dark_blue_grunge_background_caracterdesign">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.dashboard">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.data_backup_120px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.data_configuration_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.database_restore_120px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.database_restore_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.diploma_120px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.diploma_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.edit_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.elective_120px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.elective_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.exam_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.export_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.home_50px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.import_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.login_rounded_up_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.logout_rounded_up_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.minimize_window_25px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.pexels_photo_281260">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.print_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.save_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.school_director_120px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.student_male_120px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.student_male_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.training_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.upload_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.user_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.user_50px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.user_group_man_man_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Design_01.My.Resources.Resources.visible_30px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Design_01.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

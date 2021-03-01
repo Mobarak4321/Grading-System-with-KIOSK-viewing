@@ -1,0 +1,20 @@
+c:\users\mobarak dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\bin\Debug\Design 01.exe.config
+c:\users\mobarak dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\bin\Debug\Design 01.exe
+c:\users\mobarak dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\bin\Debug\Design 01.pdb
+c:\users\mobarak dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\bin\Debug\Design 01.xml
+c:\users\mobarak dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Resources.resources
+c:\users\mobarak dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design 01.vbproj.GenerateResource.Cache
+c:\users\mobarak dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design 01.exe
+c:\users\mobarak dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design 01.xml
+c:\users\mobarak dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design 01.pdb
+c:\users\mobarak dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Login.resources
+C:\Users\Mobarak Dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Registrar.resources
+C:\Users\Mobarak Dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Dashboard.resources
+C:\Users\Mobarak Dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Students.resources
+C:\Users\Mobarak Dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Teachers.resources
+C:\Users\Mobarak Dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Courses.resources
+C:\Users\Mobarak Dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Subjects.resources
+C:\Users\Mobarak Dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Student.resources
+C:\Users\Mobarak Dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.StudentProfile.resources
+C:\Users\Mobarak Dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.StudentGrades.resources
+C:\Users\Mobarak Dimalotang\documents\visual studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Grades.resources

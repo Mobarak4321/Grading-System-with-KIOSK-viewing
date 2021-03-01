@@ -1,0 +1,171 @@
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\bin\Debug\Design 01.exe.config
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design 01.exe
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design 01.xml
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design 01.pdb
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\bin\Debug\Design 01.exe
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\bin\Debug\Design 01.pdb
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\bin\Debug\Design 01.xml
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Courses.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Grades.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.StudentGrades.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Subjects.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Teachers.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Registrar.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Login.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Dashboard.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Students.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Student.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Resources.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\PROJECT 1.vbproj.GenerateResource.Cache
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.TeacherProfile.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Teacher.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.TeacherGrade.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Admin.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AdminProfile.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Database.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AddUsersAccount.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AddStudents.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.RestoreDatabase.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.BackupDatabase.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AddTeachers.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AddSubjects.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AddCourses.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.UpdateGrades.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.TeachersAdvisory.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AddTeacherAdvisories.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\PROJECT 1.vbprojResolveAssemblyReference.cache
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.PrintGrade.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\RdlCompile.cache
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\RdlCompile.compiled
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.SubjectsEnrolled.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AddSubjectEnrolled.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.UsersAccounts.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.UserActivity.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Books.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Librarian.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.IssuedBooks.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AddBooks.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.PrintStudent.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.PrintSubject.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.Logout.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.UploadClassification.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.StudentBooks.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.StudentIssued.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.ReportBooks.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AddIssued.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.AddStudentIssued.resources
+C:\Users\Mobarak Dimalotang\Documents\Visual Studio 2012\Projects\Design 01\Design 01\obj\Debug\Design_01.DataSaved.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\bin\Debug\Design 01.exe.config
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design 01.exe
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design 01.xml
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design 01.pdb
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\bin\Debug\Design 01.exe
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\bin\Debug\Design 01.pdb
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\bin\Debug\Design 01.xml
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\PROJECT 1.vbprojResolveAssemblyReference.cache
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.DataSaved.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AddBooks.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AddIssued.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AddCourses.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AddStudents.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AddSubjectEnrolled.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AddSubjects.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AddTeacherAdvisories.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AddTeachers.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AddUsersAccount.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.BackupDatabase.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.UpdateGrades.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AddStudentIssued.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Logout.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.PrintGrade.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.PrintStudent.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.PrintSubject.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.AdminProfile.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Books.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.IssuedBooks.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.ReportBooks.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Courses.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Dashboard.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Database.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.UserActivity.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.UsersAccounts.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.TeachersAdvisory.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.SubjectsEnrolled.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Grades.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Teachers.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Subjects.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Students.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.RestoreDatabase.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.StudentBooks.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.StudentGrades.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.StudentIssued.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.TeacherGrade.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.TeacherProfile.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.UploadClassification.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Admin.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Librarian.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Registrar.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Login.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Student.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Teacher.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\Design_01.Resources.resources
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\PROJECT 1.vbproj.GenerateResource.Cache
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\RdlCompile.cache
+C:\Users\Mobarak Dimalotang\Documents\Programming Project\Desktop Development\VB.Net Project\Design 01\Design 01\obj\Debug\RdlCompile.compiled
+D:\My System\Design 01\Design 01\bin\Debug\Design 01.exe.config
+D:\My System\Design 01\Design 01\obj\Debug\Design 01.exe
+D:\My System\Design 01\Design 01\obj\Debug\Design 01.xml
+D:\My System\Design 01\Design 01\obj\Debug\Design 01.pdb
+D:\My System\Design 01\Design 01\bin\Debug\Design 01.exe
+D:\My System\Design 01\Design 01\bin\Debug\Design 01.pdb
+D:\My System\Design 01\Design 01\bin\Debug\Design 01.xml
+D:\My System\Design 01\Design 01\obj\Debug\PROJECT 1.vbprojResolveAssemblyReference.cache
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.DataSaved.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AddBooks.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AddIssued.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AddCourses.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AddStudents.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AddSubjectEnrolled.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AddSubjects.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AddTeacherAdvisories.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AddTeachers.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AddUsersAccount.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.BackupDatabase.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.UpdateGrades.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AddStudentIssued.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Logout.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.PrintGrade.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.PrintStudent.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.PrintSubject.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.AdminProfile.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Books.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.IssuedBooks.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.ReportBooks.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Courses.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Dashboard.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Database.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.UserActivity.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.UsersAccounts.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.TeachersAdvisory.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.SubjectsEnrolled.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Grades.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Teachers.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Subjects.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Students.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.RestoreDatabase.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.StudentBooks.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.StudentGrades.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.StudentIssued.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.TeacherGrade.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.TeacherProfile.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.UploadClassification.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Admin.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Librarian.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Registrar.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Login.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Student.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Teacher.resources
+D:\My System\Design 01\Design 01\obj\Debug\Design_01.Resources.resources
+D:\My System\Design 01\Design 01\obj\Debug\PROJECT 1.vbproj.GenerateResource.Cache
+D:\My System\Design 01\Design 01\obj\Debug\RdlCompile.cache
+D:\My System\Design 01\Design 01\obj\Debug\RdlCompile.compiled
